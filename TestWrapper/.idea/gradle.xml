@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$/../TestBase" />
             <option value="$PROJECT_DIR$/../TestLifeCycle" />
+            <option value="$PROJECT_DIR$/../TestSkill" />
             <option value="$PROJECT_DIR$" />
           </set>
         </option>

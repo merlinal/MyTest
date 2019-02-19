@@ -11,6 +11,10 @@
 /TestWrapper/build
 /TestWrapper/captures
 /TestWrapper/.externalNativeBuild
-/TestBase\build
-/TestLifeCycle\build
+/TestBase/build
+/TestBase/*.iml
+/TestLifeCycle/build
+/TestLifeCycle/*.iml
+/TestSkill/build
+/TestSkill/*.iml
 

@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight">
-        <activity android:name="com.test.life.cycle.LifeActivityA">
+        <activity android:name="com.test.skill.SkillEditTouchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

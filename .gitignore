@@ -1,0 +1,16 @@
+/TestWrapper/*.iml
+/TestWrapper/.gradle
+/TestWrapper/local.properties
+/TestWrapper/.idea/caches
+/TestWrapper/.idea/libraries
+/TestWrapper/.idea/modules.xml
+/TestWrapper/.idea/workspace.xml
+/TestWrapper/.idea/navEditor.xml
+/TestWrapper/.idea/assetWizardSettings.xml
+/TestWrapper/.DS_Store
+/TestWrapper/build
+/TestWrapper/captures
+/TestWrapper/.externalNativeBuild
+/TestBase\build
+/TestLifeCycle\build
+

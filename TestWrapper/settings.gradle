@@ -1,0 +1,4 @@
+include ':TestLifeCycle', ':TestBase'
+
+project(':TestLifeCycle').projectDir = new File(settingsDir, '../TestLifeCycle')
+project(':TestBase').projectDir = new File(settingsDir, '../TestBase')

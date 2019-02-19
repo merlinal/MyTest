@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.test.life.cycle">
+
+    <application android:allowBackup="true">
+        <!--<activity android:name=".LifeActivityA" />-->
+        <activity android:name=".LifeActivityB" />
+        <activity android:name=".LifeActivityFragment" />
+        <activity
+            android:name=".LifeActivitySingleTask"
+            android:launchMode="singleTask" />
+    </application>
+
+</manifest>
